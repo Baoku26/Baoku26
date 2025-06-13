@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Baoku26
+- 👋 Hi, I’m DML
 - 👀 I’m interested in web development, NLP, ML, mixed reality.
 - 🌱 I’m currently learning javascript ,python
 - 💞️ I’m looking to collaborate on ...
