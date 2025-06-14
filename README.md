@@ -1,4 +1,4 @@
-<img src="download (3).gif" alt="Screenshot" />
+<img src="This pin is all about coding.gif" alt="Screenshot" />
 
 <h1 text-align: center; font-weigth: bold;>👋HI, I'M ADEDAMOLA</h1> 
 <br> 
@@ -14,6 +14,8 @@
 <br><br>
 <h3>🔍 I love building clean, functional, and aesthetic web interfaces — especially for Web3, startups, and creative brands.</h3>
 <h3>🗣 I'm very active on X (Twitter) where I share insights, projects, and connect with the creative tech community.</h3>
+<be>
+<img src="download (3).gif" alt="Screenshot" />
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AdeDml26) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/baoku26) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/damolaayesoro) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:damolaayesoro360@gmail.com) 
