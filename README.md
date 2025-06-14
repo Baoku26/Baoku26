@@ -4,7 +4,7 @@
 <br> 
 <p style="font-style: italic;">A creative developer and brand identity designer passionate about crafting unique digital experiences</p>
 <br><br>
-<h2>💻 I'm specialize in:</h2>
+<h2>💻 I specialize in:</h2>
 <ul>
   <li>Frontend Development (React, Next.js, TailwindCSS)</li>
   <li>CMS Development (Webflow, Framer)</li>
